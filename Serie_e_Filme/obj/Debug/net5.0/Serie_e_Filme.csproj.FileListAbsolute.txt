@@ -1,0 +1,16 @@
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\bin\Debug\net5.0\Serie_e_Filme.exe
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\bin\Debug\net5.0\Serie_e_Filme.deps.json
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\bin\Debug\net5.0\Serie_e_Filme.runtimeconfig.json
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\bin\Debug\net5.0\Serie_e_Filme.runtimeconfig.dev.json
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\bin\Debug\net5.0\Serie_e_Filme.dll
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\bin\Debug\net5.0\ref\Serie_e_Filme.dll
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\bin\Debug\net5.0\Serie_e_Filme.pdb
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.csprojAssemblyReference.cache
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.AssemblyInfoInputs.cache
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.AssemblyInfo.cs
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.csproj.CoreCompileInputs.cache
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.dll
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\ref\Serie_e_Filme.dll
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.pdb
+C:\workspace\ProgramaSerie&Filme\Serie_e_Filme\obj\Debug\net5.0\Serie_e_Filme.genruntimeconfig.cache
